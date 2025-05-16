@@ -39,4 +39,4 @@ G1024_S
 0125_G
 
 
-It-Tok project on Arborator: 'https://github.com/cabinsix/It-Tok/blob/main/README.md'
+It-Tok project on Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
