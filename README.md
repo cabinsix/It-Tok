@@ -1,8 +1,9 @@
 Sample
 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
 
-Gen_It-Tok
-G0125_D in progress
+| Gen_It-Tok    |    status     |
+| ------------- | ------------- |
+|G0125_D   |in progress|
 G1024_Q
 G1224_Q
 G0125_U
@@ -10,7 +11,7 @@ G1224_M
 G1024_D
 G0125_P
 G1124_N
-G0125_1  OK
+G0125_1 | OK
 G1224_O
 G1124_Q
 G1124_F
@@ -18,8 +19,9 @@ G1224_I
 G0125_11
 G1024_S
 
-PolSo_It-Tok
-1024_E
+|PolSo_It-Tok|  status |
+|-------------| ------------- |
+|1024_E| |
 0125_B
 1224_U
 1124_N
