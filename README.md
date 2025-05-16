@@ -1,4 +1,5 @@
 Sample
+
 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
 
 | Gen_It-Tok    |    status     |
@@ -36,3 +37,5 @@ G1024_S
 0125_Q
 1224_V
 0125_G
+
+It-Tok project on Arborator: 'https://github.com/cabinsix/It-Tok/blob/main/README.md'
