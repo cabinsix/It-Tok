@@ -49,6 +49,6 @@ Treebank of the It-Tok corpus subsection: sample made up of 15 videos from Gen_I
 
 | fenomeni    |    scelte     | es.     |
 | ------------- | ------------- | ------------- |
-| pronomi personali    |    ogni persona ha il suo lemma     | io->io;lei->lui  |
-| pronomi personali in casi   |    ogni persona ha i diversi casi     | io->io, caso = nom; suo->  lui; caso = gen  |
+| pronomi personali    |    ogni persona ha il suo lemma     | io -> io; lei -> lei |
+| pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io ; suo -> suo  |
 
