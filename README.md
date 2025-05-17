@@ -1,4 +1,4 @@
-***Sample***
+# **Sample** #
 
 Treebank of the It-Tok corpus subsection: sample made up of 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
 
@@ -43,9 +43,8 @@ It-Tok project on Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 
 
 
-Appunti
+# **Appunti e problemi irrisolti** #
 
-Treebank of the It-Tok corpus subsection: sample made up of 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
 
 | fenomeni    |    scelte     | es.     |
 | ------------- | ------------- | ------------- |
