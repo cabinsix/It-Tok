@@ -52,6 +52,10 @@ Treebank of the It-Tok corpus subsection: sample made up of 15 videos from Gen_I
 | pronomi personali    |    ogni persona ha il suo lemma     | io -> io; lei -> lei |
 | pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io ; suo -> suo  |
 
-Questione pronomi ancora irrisolta: usare 'io' come pronome lemma di tutti (tuo = io, 2 persona, sing, gen) o usare lemmi specifici? Ho visto che KIPARLA forest li separano. 
+* Questione pronomi ancora irrisolta: usare 'io' come pronome lemma di tutti (tuo = io, 2 persona, sing, gen) o usare lemmi specifici? Ho visto che KIPARLA forest li separano. 
 
     "fargli" : fare (= inf) + gli (= lo dat?)
+
+* "Comunque sia" ? < "per renderla comunque sia istruita"
+
+* Problemi SD
