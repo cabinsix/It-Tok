@@ -2,8 +2,8 @@
 
 Treebank of the It-Tok corpus subsection: sample made up of 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
 
-| Gen_It-Tok    |    status     |
-| ------------- | ------------- |
+| Gen_It-Tok    |    status     | reviewed     |
+| ------------- | ------------- | ------------- |
 |G0125_D   |in progress|
 G1024_Q
 G1224_Q
@@ -20,8 +20,8 @@ G1224_I
 G0125_11
 G1024_S
 
-|PolSo_It-Tok|  status |
-|-------------| ------------- |
+|PolSo_It-Tok|    status     | reviewed     |
+| ------------- | ------------- | ------------- |
 |1024_E| |
 0125_B
 1224_U
