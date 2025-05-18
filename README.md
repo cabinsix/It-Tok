@@ -1,6 +1,7 @@
-# **Sample** #
+# **T-It-tok** #
+# Sample #
 
-Treebank of the It-Tok corpus subsection: sample made up of 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
+Treebank of the It-Tok (T-It-tok) corpus subsection: sample made up of 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
 
 | Gen_It-Tok    |    status     | reviewed     |
 | ------------- | ------------- | ------------- |
