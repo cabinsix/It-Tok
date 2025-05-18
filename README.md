@@ -4,8 +4,8 @@ Treebank of the It-Tok corpus subsection: sample made up of 15 videos from Gen_I
 
 | Gen_It-Tok    |    status     | reviewed     |
 | ------------- | ------------- | ------------- |
-|G0125_D   |in progress|
-G1024_Q
+|G0125_D   |OK|
+G1024_Q | in progress
 G1224_Q
 G0125_U
 G1224_M
@@ -54,6 +54,8 @@ It-Tok project on Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 * Questione pronomi ancora irrisolta: usare 'io' come pronome lemma di tutti (tuo = io, 2 persona, sing, gen) o usare lemmi specifici? Ho visto che KIPARLA forest li separano. 
 
     "fargli" : fare (= inf) + gli (= lo dat?)
+
+Non so sono ancora molto in dubbio sulla questione pronomi, clitici e casi...
 
 * "Comunque sia" ? < "per renderla comunque sia istruita"
 
