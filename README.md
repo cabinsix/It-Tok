@@ -1,6 +1,6 @@
 # **T-It-tok** #
 
-T-It-tok è il progetto in corso per costruire una treebank di una parte del corpus It-tok, corpus di TikTok italiani. It-tok sarà presto disponibile nella forma trascritta sul presente github. 
+T-It-tok è il progetto in corso per costruire una treebank di una parte del corpus It-tok, corpus di TikTok italiani. It-tok sarà presto disponibile nella forma trascritta sul presente github. Per consultare le trascrizioni annotate con sistema CLIPS (Savy 2006) o il file audio, scrivetemi pure all'indirizzo ltroncone@unisa.it
 
 **N.B.** I file CoNLL-U corrispondenti, che pure saranno messi a disposizione, sono stati manualmente controllati solo per le colonne riguardanti la lemmatizzazione e il PoS tagging. Le colonne riguardanti le informazioni morfosintattiche riportano i risultati dell'annotazione automatica fornita da spacy. Per alcuni specifici file, estratti casualmente (riportati nella sezione successiva) si avrà una treebank manualmente annotata.
 
