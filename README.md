@@ -2,7 +2,7 @@
 
 T-It-tok è il progetto in corso per costruire una treebank di una parte del corpus It-tok, corpus di TikTok italiani. It-tok sarà presto disponibile nella forma trascritta sul presente github. Per consultare le trascrizioni annotate con sistema CLIPS (Savy 2006) o il file audio, scrivetemi pure all'indirizzo ltroncone@unisa.it
 
-**N.B.** I file CoNLL-U corrispondenti, che pure saranno messi a disposizione, sono stati manualmente controllati solo per le colonne riguardanti la lemmatizzazione e il PoS tagging. Le colonne riguardanti le informazioni morfosintattiche riportano i risultati dell'annotazione automatica fornita da spacy. Per alcuni specifici file, estratti casualmente (riportati nella sezione successiva) si avrà una treebank manualmente annotata.
+**N.B.** I file CoNLL-U corrispondenti, che pure saranno messi a disposizione, sono stati manualmente controllati solo per le colonne riguardanti la lemmatizzazione e il PoS tagging. Le colonne riguardanti le informazioni morfosintattiche riportano i risultati dell'annotazione automatica fornita da spacy. Per alcuni specifici file, estratti casualmente (riportati nella sezione successiva) si avrà una treebank manualmente annotata. Come si vede, nei file CoNLL-U non controllati per le colonne con annotazione morfosintattica, si ha comunque un unico sent_id per tutto il turno, poiché la divisione in *frasi* è una delle questioni da affrontare caso per caso.
 
 Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato informale, l'annotazione della treebank riporta diverse questioni, anche di implicazione teorica, che annoto sotto.
 
