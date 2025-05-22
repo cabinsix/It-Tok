@@ -61,11 +61,11 @@ It-Tok project on Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 # **Appunti e problemi irrisolti** #
 
 
-| fenomeni    |    scelte     | es.     |
+| fenomeni    |    scelte     | es.     | status |
 | ------------- | ------------- | ------------- |
-| pronomi personali    |    ogni persona ha il suo lemma     | io -> io; lei -> lei |
-| pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io ; suo -> suo  |
-| dipendenza SD|    testa dello scope?| |
+| pronomi personali    |    ogni persona ha il suo lemma     | io -> io; lei -> lei | 
+| pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io ; suo -> suo  |non implementato, da capire|
+| dipendenza SD|    testa dello scope?| |OK|
 
 * Questione pronomi ancora irrisolta: usare 'io' come pronome lemma di tutti (tuo = io, 2 persona, sing, gen) o usare lemmi specifici? Ho visto che KIPARLA forest li separano. 
 
