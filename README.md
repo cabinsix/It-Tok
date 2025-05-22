@@ -72,7 +72,7 @@ It-Tok project on Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 | pronomi personali    |    ogni persona ha il suo lemma     | io -> io; lei -> lei | 
 | pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io ; suo -> suo  |non implementato, da capire|
 | dipendenza SD|    testa dello scope?| |OK|
-|dipendenza delle pause (piene e vuote)| testa successiva? come fossero tutte processing forse? |"scrivi la tua opinione **eeh** nei **commenti**"| BOH|
+|dipendenza delle pause (piene e vuote)| testa successiva? come fossero tutte processing forse? | | BOH|
 
 * Questione pronomi ancora irrisolta: usare 'io' come pronome lemma di tutti (tuo = io, 2 persona, sing, gen) o usare lemmi specifici? Ho visto che KIPARLA forest li separano. 
 
@@ -86,5 +86,5 @@ Non so sono ancora molto in dubbio sulla questione pronomi, clitici e casi...
 
 * che polivalente
 
-* pause piene, da chi dipendono?
+* pause piene, da chi dipendono? "scrivi la tua opinione **eeh** nei **commenti**"
 
