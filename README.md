@@ -27,7 +27,7 @@ Treebank of the It-Tok (T-It-tok) corpus subsection: sample made up of 15 videos
 | ------------- | ------------- | ------------- |
 |G0125_D   |OK|
 G1024_Q | OK|
-G1224_Q | in progress |
+G1224_H | in progress |
 G0125_U
 G1224_M
 G1024_D
