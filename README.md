@@ -4,6 +4,12 @@ It-tok è un corpus di parlato di TikTok, raccolto tra marzo e aprile 2025. Esso
 
 It-tok sarà presto disponibile nella forma trascritta sul presente github. Per consultare le trascrizioni annotate con sistema CLIPS (Savy 2006) o i file audio, scrivetemi pure all'indirizzo : ltroncone (at) unisa (dot) it
 
+Il progetto It-tok è nato con tre obiettivi principali:
+
+1. fornire una prima valutazione dei correlati funzionali di TikTok e, successivamente, delle modalità di comunicazione proprie di questo specifico social network;
+2. mettere in evidenza le modalità con cui, su tale piattaforma, vengono trattate tematiche di rilievo per il dibattito pubblico;
+3. confrontare i correlati funzionali della sezione generale con quelli della sezione tematica.
+
 
 # **T-It-tok** #
 
@@ -76,3 +82,5 @@ Non so sono ancora molto in dubbio sulla questione pronomi, clitici e casi...
 * "chi è del mestiere sicuramente starò sbagliando" ellissi "per"(?)
 
 * Problemi SD
+
+* che polivalente
