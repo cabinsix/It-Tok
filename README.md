@@ -65,6 +65,7 @@ It-Tok project on Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 | ------------- | ------------- | ------------- |
 | pronomi personali    |    ogni persona ha il suo lemma     | io -> io; lei -> lei |
 | pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io ; suo -> suo  |
+| dipendenza SD|    testa dello scope?| |
 
 * Questione pronomi ancora irrisolta: usare 'io' come pronome lemma di tutti (tuo = io, 2 persona, sing, gen) o usare lemmi specifici? Ho visto che KIPARLA forest li separano. 
 
@@ -72,6 +73,6 @@ It-Tok project on Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 
 Non so sono ancora molto in dubbio sulla questione pronomi, clitici e casi...
 
-* "Comunque sia" ? < "per renderla comunque sia istruita"
+* "chi è del mestiere sicuramente starò sbagliando" ellissi "per"(?)
 
 * Problemi SD
