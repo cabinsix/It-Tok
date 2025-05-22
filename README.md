@@ -23,17 +23,17 @@ Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato
 
 Treebank of the It-Tok (T-It-tok) corpus subsection: sample made up of 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
 
-| Gen_It-Tok    |    status     | reviewed     |
+| Gen_It-Tok    |    status     | reviewed     | n. tokens |
 | ------------- | ------------- | ------------- |
-|G0125_D   |OK|
-G1024_Q | OK|
+|G0125_D   |OK| | 390 |
+G1024_Q | OK| | 216 |
 G1224_H | in progress |
 G0125_U
 G1224_M
 G1024_D
 G0125_P
 G1124_N
-G0125_1 | OK
+G0125_1 | OK | | 358 |
 G1224_O
 G1124_Q
 G1124_F
