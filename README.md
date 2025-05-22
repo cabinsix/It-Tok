@@ -24,7 +24,7 @@ Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato
 Treebank of the It-Tok (T-It-tok) corpus subsection: sample made up of 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
 
 | Gen_It-Tok    |    status     | reviewed     | n. tokens |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |  ------------- |
 |G0125_D   |OK| | 390 |
 G1024_Q | OK| | 216 |
 G1224_H | in progress |
@@ -41,8 +41,8 @@ G1224_I
 G0125_11
 G1024_S
 
-|PolSo_It-Tok|    status     | reviewed     |
-| ------------- | ------------- | ------------- |
+|PolSo_It-Tok|    status     | reviewed     | n. tokens |
+| ------------- | ------------- | ------------- |  ------------- |
 |1024_E| |
 0125_B
 1224_U
