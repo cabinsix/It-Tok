@@ -69,7 +69,7 @@ It-Tok project on Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 
 | fenomeni    |    scelte     | es.     | status |
 | ------------- | ------------- | ------------- |
-| pronomi personali    |    ogni persona ha il suo lemma     | io -> io; lei -> lei | 
+| pronomi personali   |  ogni persona ha il suo lemma    | io -> io; lei -> lei | OK |
 | pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io ; suo -> suo  |non implementato, da capire|
 | dipendenza SD|    testa dello scope?| |OK|
 | dipendenza delle pause piene e vuote | testa successiva | | BOH |
