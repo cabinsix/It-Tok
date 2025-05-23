@@ -1,0 +1,457 @@
+# sent_id = G0125_D_1
+# text = Guarda , quando a volte mi dicono eh , {P} se uno prende un cane già grande è inaddestrabile ehm
+1	Guarda	guardare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	discourse	_	AlignBegin=0|DM=yes
+2	,	,	PUNCT	FF	_	7	punct	_	_
+3	quando	quando	SCONJ	CS	_	8	mark	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	volte	volta	NOUN	S	Number=Plur	7	obl	_	_
+6	mi	io	PRON	PC	Case=Dat	7	iobj	_	_
+7	dicono	dire	VERB	PC	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	orphan	_	_
+8	eh	eh	INTJ	I	_	13	discourse	_	DM=yes
+9	,	,	PUNCT	FF	_	13	punct	_	_
+10	{P}	pause	X	FF	_	13	dep	_	Type=short_pause
+11	se	se	SCONJ	CS	_	13	mark	_	_
+12	uno	uno	PRON	PI	Gender=Masc|Number=Sing|PronType=Ind	13	nsubj	_	_
+13	prende	prendere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
+14	un	uno	DET	RI	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	cane	cane	NOUN	S	Gender=Masc|Number=Sing	13	obj	_	_
+16	già	già	ADV	B	_	17	advmod	_	_
+17	grande	grande	ADJ	A	Number=Sing	15	amod	_	_
+18	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
+19	inaddestrabile	inaddestrabile	ADJ	S	Number=Sing	7	parataxis	_	_
+20	ehm	ehm	X	PD	_	7	discourse	_	_
+
+# sent_id = G0125_D_2
+# text = Non è vero .
+1	Non	non	ADV	BN	PronType=Neg	3	advmod	_	AlignBegin=5.74
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+3	vero	vero	ADJ	A	Gender=Masc|Number=Sing	0	root	_	_
+4	.	.	PUNCT	FS	_	3	punct	_	_=|AlignEnd=6.78
+
+# sent_id = G0125_D_3
+# text = Io con la NAME eeh eppure l' ho presa dal canile , aveva sei mesi ,
+1	Io	io	PRON	PE	Case=Nom|PronType=Prs	9	nsubj	_	AlignBegin=6.86
+2	con	con	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	NAME	NAME	PROPN	SP	_	1	nmod	_	_
+5	eeh	eeh	X	CC	_	9	discourse	_	_
+6	eppure	eppure	CCONJ	CC	_	9	cc	_	_
+7	l'	lo	PRON	PC	Clitic=Yes|Gender=Fem|Number=Sing|PronType=Prs	9	obj	_	_
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	9	aux	_	_
+9	presa	prendere	VERB	V	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+10-11	dal	_	_	_	_	_	_	_	_
+10	da	da	ADP	E_RD	_	12	case	_	_
+11	il	il	DET	E_RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	case	_	_
+12	canile	canile	NOUN	S	Number=Sing	9	obl	_	_
+13	,	,	PUNCT	FF	_	9	punct	_	_
+14	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	parataxis	_	_
+15	sei	sei	NUM	N	NumType=Card	16	nummod	_	_
+16	mesi	mese	NOUN	S	Number=Plur	14	obj	_	_
+17	,	,	PUNCT	FF	_	9	punct	_	_=|AlignEnd=11.82
+
+# sent_id = G0125_D_4
+# text = e io da ignorante non gli insegnai niente .
+1	e	e	CCONJ	CC	_	7	cc	_	_=|AlignBegin=12.02
+2	io	io	PRON	PE	Case=Nom|PronType=Prs	7	nsubj	_	_
+3	da	da	ADP	E	_	4	case	_	_
+4	ignorante	ignorante	ADJ	B	Number=Sing	2	nmod	_	_
+5	non	non	ADV	BN	PronType=Neg	7	advmod	_	_
+6	gli	lo	PRON	PC	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing	7	iobj	_	_
+7	insegnai	insegnare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+8	niente	niente	PRON	PI	PronType=Neg	7	obj	_	_
+9	.	.	PUNCT	FS	_	7	punct	_	_=|AlignEnd=14.48
+
+# sent_id = G0125_D_5
+# text = Ho cominciato ad addestrarla quando la NAME aveva undici anni .
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	AlignBegin=14.6
+2	cominciato	cominciare	VERB	V	VerbForm=Part	0	root	_	_
+3	ad	a	ADP	E	_	4	mark	_	_
+4-5	addestrarla	_	_	_	_	_	_	_	_
+4	addestrare	addestrare	VERB	V_PC	VerbForm=Inf	2	xcomp	_	_
+5	la	lo	PRON	V_PC	Gender=Fem|Number=Sing|PronType=Prs	4	obj	_	_
+6	quando	quando	SCONJ	CS	_	9	mark	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	NAME	NAME	PROPN	SP	_	9	nsubj	_	_
+9	aveva	avere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+10	undici	undici	NUM	N	NumType=Card	11	nummod	_	_
+11	anni	anno	NOUN	S	Number=Plur	9	obj	_	_
+12	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = G0125_D_6
+# text = Quando già c' era NAME a casa , che facevo scuola a NAME eh facevo scuola anche alla NAME .
+1	Quando	quando	SCONJ	CS	_	4	mark	_	_
+2	già	già	ADV	B	_	4	advmod	_	_
+3	c'	ci	PRON	PC	Clitic=Yes	4	expl	_	_
+4	era	essere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	_
+5	NAME	NAME	PROPN	SP	_	4	nsubj	_	_
+6	a	a	ADP	E	_	7	case	_	_
+7	casa	casa	NOUN	S	Number=Sing	4	obl	_	_
+8	,	,	PUNCT	FF	_	15	punct	_	_
+9	che	che	CCONJ	PR	_	10	dep	_	_
+10	facevo	facere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	15	parataxis	_	_
+11	scuola	scuola	NOUN	S	Number=Sing	10	obj	_	_
+12	a	a	ADP	E	_	13	case	_	_
+13	NAME	NAME	PROPN	SP	_	10	obl	_	_
+14	eh	eh	INTJ	CC	_	15	discourse	_	_
+15	facevo	facere	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
+16	scuola	scuola	NOUN	S	Number=Sing	15	obj	_	_
+17	anche	anche	ADV	B	_	20	advmod	_	_
+18-19	alla	_	_	_	_	_	_	_	_
+18	a	a	ADP	E_RD	_	20	case	_	_
+19	la	la	DET	E_RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
+20	NAME	NAME	PROPN	SP	_	15	obl	_	_
+21	.	.	PUNCT	FS	_	15	punct	_	_=|AlignEnd=24.58
+
+# sent_id = 1_G0125_D_7
+# text = La NAME ha cominciato a undici anni a imparare il seduto , il terra , il resta , a camminarmi al piede , abbiamo fatto la condotta ,
+1	La	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=24.58
+2	NAME	NAME	PROPN	SP	_	4	nsubj	_	_
+3	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	cominciato	cominciare	VERB	V	VerbForm=Part	0	root	_	_
+5	a	a	ADP	E	_	7	case	_	_
+6	undici	undici	NUM	N	NumType=Card	7	nummod	_	_
+7	anni	anno	NOUN	S	Number=Plur	4	obl	_	_
+8	a	a	ADP	E	_	9	mark	_	_
+9	imparare	imparare	VERB	V	VerbForm=Inf	4	xcomp	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	seduto	seduto	NOUN	S	Number=Inv	9	obj	_	_
+12	,	,	PUNCT	FF	_	14	punct	_	list_cxn_2=
+13	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	terra	terra	NOUN	S	Number=Inv	11	conj	_	list_cxn_3=
+15	,	,	PUNCT	FF	_	17	punct	_	_
+16	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	resta	resta	VERB	S	Number=Inv	14	conj	_	_
+18	,	,	PUNCT	FF	_	17	punct	_	_
+19	a	a	ADP	E	_	20	case	_	list_cxn_5=
+20-21	camminarmi	_	_	_	_	_	_	_	_
+20	camminare	camminare	VERB	S	VerbForm=Inf	9	conj	_	_
+21	mi	io	NOUN	S	Case=Dat|Clitic=Yes	9	conj	_	_
+22-23	al	_	_	_	_	_	_	_	_
+22	a	a	ADP	E_RD	_	24	case	_	_
+23	il	il	DET	E_RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	piede	piede	NOUN	S	Number=Sing	20	nmod	_	_
+25	,	,	PUNCT	FF	_	27	punct	_	_=|AlignEnd=33.54
+26	abbiamo	avere	AUX	VA	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	27	aux	_	AlignBegin=33.58
+27	fatto	fare	VERB	V	VerbForm=Part	4	parataxis	_	_
+28	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
+29	condotta	condotta	NOUN	S	Number=Sing	27	obj	_	_
+30	,	,	PUNCT	FF	_	4	punct	_	_
+
+# sent_id = G0125_D_8
+# text = questo per USERNAME se dice mo no ?
+1	questo	questo	PRON	PD	PronType=Dem	5	nsubj	_	_
+2	per	per	ADP	E	_	3	case	_	_
+3	USERNAME	USERNAME	NOUN	S	_	5	nmod	_	_
+4	se	si	SCONJ	CS	Clitic=Yes	5	expl	_	_
+5	dice	dire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	mo	mo	NOUN	PC	_	7	advmod	_	_
+7	no	no	ADV	BN	PronType=Neg	5	obj	_	_
+8	?	?	PUNCT	FS	_	5	punct	_	_=|AlignEnd=37.14
+
+# sent_id = G0125_D_9
+# text = E con la NAME_ANIMAL , prima cosa ho fatto io , da inesperta sempre , ho fatto passare questi otto mesi e mezzo , nove , per fargli prendere fiducia in noi .
+1	E	e	CCONJ	CC	_	9	cc	_	_=|AlignBegin=37.22
+2	con	con	ADP	E	_	4	case	_	_
+3	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
+4	NAME_ANIMAL	NAME_ANIMAL	PROPN	SP	_	9	obl	_	_
+5	,	,	PUNCT	FF	_	9	punct	_	_
+6	prima	primo	ADJ	NO	Gender=Fem|Number=Sing	7	amod	_	_
+7	cosa	cosa	NOUN	S	Number=Sing	9	obl	_	_
+8	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	9	aux	_	_
+9	fatto	fare	VERB	V	VerbForm=Part	0	root	_	_
+10	io	io	PRON	PE	Case=Nom|PronType=Prs	9	nsubj	_	_
+11	,	,	PUNCT	FF	_	13	punct	_	_
+12	da	da	ADP	E	_	13	case	_	_
+13	inesperta	inesperta	ADJ	A	Gender=Fem|Number=Sing	9	obl	_	_
+14	sempre	sempre	ADV	B	_	13	advmod	_	_
+15	,	,	PUNCT	FF	_	17	punct	_	_=|AlignEnd=41.62
+16	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	17	aux	_	_=|AlignBegin=41.84
+17	fatto	fare	VERB	V	VerbForm=Part	18	aux	_	_
+18	passare	passare	VERB	V	VerbForm=Inf	9	parataxis	_	_
+19	questi	questo	DET	DD	Gender=Masc|Number=Plur|PronType=Dem	21	det	_	_
+20	otto	otto	NUM	N	NumType=Card	21	nummod	_	_
+21	mesi	mese	NOUN	S	Number=Plur	18	obj	_	_
+22	e	e	CCONJ	CC	_	23	cc	_	_
+23	mezzo	mezzo	PRON	S	Gender=Masc|Number=Sing	21	conj	_	_
+24	,	,	PUNCT	FF	_	25	punct	_	_
+25	nove	nove	NUM	N	NumType=Card	20	conj	_	_
+26	,	,	PUNCT	FF	_	28	punct	_	_
+27	per	per	ADP	E	_	28	mark	_	_
+28-29	fargli	_	_	_	_	_	_	_	_
+28	fare	fare	VERB	V_PC	VerbForm=Inf	30	aux	_	_
+29	gli	lo	PRON	V_PC	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing	28	iobj	_	_
+30	prendere	prendere	VERB	V	VerbForm=Inf	18	advcl	_	_
+31	fiducia	fiducia	NOUN	S	Number=Sing	30	obj	_	_
+32	in	in	ADP	E	_	33	case	_	_
+33	noi	noi	PRON	PE	Case=Nom	30	obl	_	_
+34	.	.	PUNCT	FS	_	9	punct	_	_=|AlignEnd=47.20
+
+# sent_id = G0125_D_10
+# text = Una volta che lei sa che noi siamo il suo porto sicuro , ora sto incominciando piano piano , a piccoli passi a istruirla .
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=47.32
+2	volta	volta	NOUN	S	Number=Sing	5	advmod	_	_
+3	che	che	SCONJ	CS	_	5	mark	_	_
+4	lei	lei	PRON	PE	Case=Nom|Gender=Fem|Number=Sing|PronType=Prs	5	nsubj	_	_
+5	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+6	che	che	SCONJ	CS	_	11	mark	_	_
+7	noi	noi	PRON	PE	Case=Nom|PronType=Prs	11	nsubj	_	_
+8	siamo	essere	AUX	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	11	cop	_	_
+9	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+10	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes	11	det:poss	_	_
+11	porto	porto	NOUN	S	Number=Sing	5	ccomp	_	_
+12	sicuro	sicuro	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	,	,	PUNCT	FF	_	16	punct	_	_=|AlignEnd=51.26
+14	ora	ora	ADV	B	_	16	advmod	_	_=|AlignBegin=51.26
+15	sto	stare	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	incominciando	incominciare	VERB	V	VerbForm=Ger	0	root	_	_
+17	piano	piano	ADV	B	_	16	advmod	_	_
+18	piano	piano	ADV	B	_	17	compound:redup	_	_
+19	,	,	PUNCT	FF	_	16	punct	_	_=|AlignEnd=54.56
+20	a	a	ADP	E	_	22	case	_	_=|AlignBegin=54.58
+21	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	22	amod	_	_
+22	passi	passo	NOUN	S	Number=Plur	16	advmod	_	_
+23	a	a	ADP	E	_	24	mark	_	_
+24-25	istruirla	_	_	_	_	_	_	_	_
+24	istruire	istruire	VERB	V_PC	VerbForm=Inf	16	xcomp	_	_
+25	la	lo	PRON	V_PC	Clitic=Yes|Gender=Fem|Number=Sing|PronType=Prs	24	obj	_	_
+26	.	.	PUNCT	FS	_	16	punct	_	_=|AlignEnd=56.58
+
+# sent_id = G0125_D_11
+# text = Questo per il suo bene , perché comunque è importante che che qualche comando lo sa , per per la sua tutela , per istruirgli la mente , per renderla comunque sia istruita .
+# tags = ripetizioni
+1	Questo	questo	PRON	PD	Gender=Masc|Number=Sing|PronType=Dem	0	root	_	AlignBegin=56.6
+2	per	per	ADP	E	_	5	case	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+4	suo	suo	DET	AP	Gender=Masc|Number=Sing|Poss=Yes	5	det:poss	_	_
+5	bene	bene	NOUN	S	_	1	orphan	_	_
+6	,	,	PUNCT	FF	_	1	punct	_	_
+7	perché	perché	SCONJ	CS	_	10	mark	_	_
+8	comunque	comunque	ADV	B	_	10	discourse	_	DM=
+9	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
+10	importante	importante	ADJ	A	Number=Sing	1	orphan	_	_
+11	che	che	SCONJ	S	_	12	reparandum	_	_
+12	che	che	SCONJ	PR	_	16	obj	_	_
+13	qualche	qualche	DET	DI	_	14	det	_	_
+14	comando	comando	NOUN	S	Number=Sing	16	obj	_	_
+15	lo	lo	PRON	PC	Clitic=Yes|Gender=Masc|Number=Sing	16	obj	_	_
+16	sa	sapere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+17	,	,	PUNCT	FF	_	10	punct	_	_=|AlignEnd=60.94
+18	per	per	ADP	S	_	19	reparandum	_	AlignBegin=61.04
+19	per	per	ADP	E	_	22	case	_	_
+20	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+21	sua	suo	DET	AP	Case=Gen|Gender=Fem|Number=Sing	22	det:poss	_	_
+22	tutela	tutela	NOUN	S	Number=Sing	10	advcl	_	_
+23	,	,	PUNCT	FF	_	22	punct	_	_
+24	per	per	ADP	E	_	25	mark	_	_
+25-26	istruirgli	_	_	_	_	_	_	_	_
+25	istruire	istruire	VERB	V_PC	VerbForm=Inf	22	conj	_	_
+26	gli	lo	VERB	V_PC	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing	25	iobj	_	_
+27	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
+28	mente	mente	NOUN	S	Number=Sing	25	obj	_	_
+29	,	,	PUNCT	FF	_	31	punct	_	_
+30	per	per	ADP	E	_	31	mark	_	_
+31-32	renderla	_	_	_	_	_	_	_	_
+31	rendere	rendere	VERB	V_PC	VerbForm=Inf	25	conj	_	_
+32	la	lo	PRON	V_PC	Case=Acc|Clitic=Yes|Gender=Fem|Number=Sing	31	obj	_	_
+33	comunque	comunque	ADV	B	_	34	mark	_	_
+34	sia	essere	VERB	VA	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	ccomp	_	_
+35	istruita	istruire	VERB	V	Gender=Fem|Number=Sing|VerbForm=Part	31	acl	_	_
+36	.	.	PUNCT	FS	_	1	punct	_	_=|AlignEnd=66.58
+
+# sent_id = G0125_D_12
+# text = Una cosa che a me piace .
+1	Una	uno	DET	RI	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	AlignBegin=67.36
+2	cosa	cosa	NOUN	S	Number=Sing	0	root	_	_
+3	che	che	PRON	PR	PronType=Rel	6	nsubj	_	_
+4	a	a	ADP	E	_	5	case	_	_
+5	me	io	PRON	PE	Case=Acc|PronType=Prs	6	obl	_	_
+6	piace	piacere	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+7	.	.	PUNCT	FS	_	2	punct	_	_=|AlignEnd=68.42
+
+# sent_id = G0125_D_13
+# text = Quindi , a piccoli passi , piano piano , le insegnerò le cosine base .
+1	Quindi	quindi	ADV	B	_	11	discourse	_	AlignBegin=68.52|DM=
+2	,	,	PUNCT	FF	_	1	punct	_	_=|AlignEnd=54.56
+3	a	a	ADP	E	_	5	case	_	_
+4	piccoli	piccolo	ADJ	A	Gender=Masc|Number=Plur	5	amod	_	_
+5	passi	passo	NOUN	S	Number=Plur	11	obl	_	_
+6	,	,	PUNCT	FF	_	5	punct	_	_
+7	piano	piano	ADV	S	_	11	advmod	_	_
+8	piano	piano	ADV	B	_	7	compound:redup	_	_
+9	,	,	PUNCT	FF	_	5	punct	_	_
+10	le	lei	PRON	PC	Case=Dat|Clitic=Yes|PronType=Prs	11	iobj	_	_
+11	insegnerò	insegnare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	le	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	cosine	cosa	NOUN	S	Number=Plur	11	obj	_	_
+14	base	base	NOUN	S	Number=Sing	13	compound	_	_
+15	.	.	PUNCT	FS	_	11	punct	_	_=|AlignEnd=72.92
+
+# sent_id = G0125_D_14
+# text = Il resta ho visto che è la cosa che gli è piaciuto subito .
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=73.22
+2	resta	resta	NOUN	S	_	8	dislocated	_	_
+3	ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
+4	visto	vedere	VERB	V	VerbForm=Part	0	root	_	_
+5	che	che	SCONJ	CS	_	8	mark	_	_
+6	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
+7	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
+8	cosa	cosa	NOUN	S	Number=Sing	4	csubj	_	_
+9	che	che	PRON	PR	PronType=Rel	12	nsubj	_	_
+10	gli	lei	PRON	PC	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing	12	iobj	_	_
+11	è	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+12	piaciuto	piacere	VERB	V	Gender=Masc|Number=Sing|VerbForm=Part	8	acl:relcl	_	_
+13	subito	subito	ADV	B	_	12	advmod	_	_
+14	.	.	PUNCT	FS	_	4	punct	_	_=|AlignEnd=75.58
+
+# sent_id = G0125_D_15
+# text = Il seduto e il terra devo trovare la chiave giusta per insegnargli , perché quella ancora , non capisce .
+1	Il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	AlignBegin=75.62
+2	seduto	seduto	NOUN	S	Number=Sing	7	nmod	_	_
+3	e	e	CCONJ	CC	_	5	cc	_	_
+4	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	terra	terra	NOUN	S	Number=Sing	2	conj	_	_
+6	devo	dovere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	aux	_	_
+7	trovare	trovare	VERB	V	VerbForm=Inf	0	root	_	_
+8	la	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	chiave	chiave	NOUN	S	Number=Sing	7	obj	_	_
+10	giusta	giusto	ADJ	A	Gender=Fem|Number=Sing	9	amod	_	_
+11	per	per	ADP	E	_	12	mark	_	_
+12-13	insegnargli	_	_	_	_	_	_	_	_
+12	insegnare	insegnare	VERB	V_PC	VerbForm=Inf	7	advcl	_	_
+13	gli	lo	VERB	V_PC	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing|PronType=Prs	12	iobj	_	_
+14	,	,	PUNCT	FF	_	12	punct	_	_=|AlignEnd=78.58
+15	perché	perché	SCONJ	CS	_	20	mark	_	_=|AlignBegin=79.16
+16	quella	quello	PRON	PD	Gender=Fem|Number=Sing|PronType=Dem	20	obj	_	_
+17	ancora	ancora	ADV	B	_	16	advmod	_	_
+18	,	,	PUNCT	FF	_	16	punct	_	_
+19	non	non	ADV	BN	PronType=Neg	20	advmod	_	_
+20	capisce	capire	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+21	.	.	PUNCT	FS	_	7	punct	_	_=|AlignEnd=81.28
+
+# sent_id = G0125_D_16
+# text = Siccome io non voglio forzarla , quindi aspetterò il momento giusto che lei faccia quella posizione lì ,
+1	Siccome	siccome	SCONJ	CS	_	5	mark	_	_=|AlignBegin=81.42
+2	io	io	PRON	PE	Case=Nom|PronType=Prs	5	nsubj	_	_
+3	non	non	ADV	BN	PronType=Neg	5	advmod	_	_
+4	voglio	volere	AUX	VM	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5-6	forzarla	_	_	_	_	_	_	_	_
+5	forzare	forzare	VERB	_	VerbForm=Inf	_	_	_	_
+6	la	lo	PRON	_	Clitic=Yes|Gender=Fem|Number=Sing	5	obj	_	_
+7	,	,	PUNCT	FF	_	5	punct	_	_=|AlignEnd=84.22
+8	quindi	quindi	ADV	B	_	9	advmod	_	AlignBegin=84.58|DM=
+9	aspetterò	aspetterò	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	5	advcl	_	_
+10	il	il	DET	RD	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+11	momento	momento	NOUN	S	Number=Sing	9	obj	_	_
+12	giusto	giusto	ADJ	A	Gender=Masc|Number=Sing	11	amod	_	_
+13	che	che	PRON	CS	PronType=Rel	15	mark	_	_
+14	lei	lei	PRON	PE	Case=Nom|PronType=Prs	15	nsubj	_	_
+15	faccia	fare	VERB	V	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
+16	quella	quello	DET	DD	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	_
+17	posizione	posizione	NOUN	S	Number=Sing	15	obj	_	_
+18	lì	lì	ADV	B	_	17	advmod	_	_
+19	,	,	PUNCT	FF	_	9	punct	_	_=|AlignEnd=88.42
+
+# sent_id = G0125_D_17
+# text = a quel punto lì associerò il comando e la premierò .
+1	a	a	ADP	E	_	3	case	_	_=|AlignBegin=88.42
+2	quel	quello	DET	DD	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	punto	punto	NOUN	S	Number=Sing	5	obl	_	_
+4	lì	lì	ADV	B	_	3	advmod	_	_
+5	associerò	associare	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	comando	comando	NOUN	S	Number=Sing	5	obj	_	_
+8	e	e	CCONJ	CC	_	10	cc	_	_
+9	la	lo	PRON	RD	Clitic=Yes|Gender=Fem|Number=Sing|PronType=Prs	10	obj	_	_
+10	premierò	premiare	NOUN	S	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	5	conj	_	_
+11	.	.	PUNCT	FS	_	5	punct	_	_=|AlignEnd=91.32
+
+# sent_id = G0125_D_18
+# text = Poi , ditemi che sbaglio ,
+1	Poi	poi	ADV	B	_	3	advmod	_	AlignBegin=91.62|DM=
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3-4	ditemi	_	_	_	_	_	_	_	_
+3	dite	dire	NOUN	S	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	mi	io	PRON	S	Case=Dat|Clitic=Yes|PronType=Prs	3	iobj	_	_
+5	che	che	SCONJ	PR	_	6	mark	_	_
+6	sbaglio	sbagliare	VERB	S	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	,	,	PUNCT	FF	_	3	punct	_	_
+
+# sent_id = G0125_D_19
+# text = chi è del mestiere sicuramente starò sbagliando ,
+1	chi	chi	PRON	PR	PronType=Rel	2	nsubj	_	_
+2	è	essere	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+3-4	del	_	_	_	_	_	_	_	_
+3	di	di	ADP	E_RD	_	5	case	_	_
+4	il	il	DET	E_RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
+5	mestiere	mestiere	NOUN	S	Number=Sing	2	nmod	_	_
+6	sicuramente	sicuramente	ADV	B	_	8	advmod	_	_
+7	starò	staròre	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	8	aux	_	_
+8	sbagliando	sbagliare	VERB	B	VerbForm=Ger	0	root	_	_
+9	,	,	PUNCT	FF	_	8	punct	_	_=|AlignEnd=96.26
+
+# sent_id = G0125_D_20
+# text = però vediamo se ci riesco .
+1	però	però	ADV	B	_	2	advmod	_	AlignBegin=96.28|DM=
+2	vediamo	vedere	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	se	se	SCONJ	CS	_	5	mark	_	_
+4	ci	ci	PRON	PC	Clitic=Yes	5	obj	_	_
+5	riesco	riesco	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	advcl	_	_
+6	.	.	PUNCT	FS	_	2	punct	_	_=|AlignEnd=97.92
+
+# sent_id = G0125_D_21
+# text = Almeno per insegnargli due cosette ,
+1	Almeno	almeno	ADV	B	_	3	advmod	_	_=|AlignBegin=97.94
+2	per	per	ADP	E	_	3	mark	_	_
+3-4	insegnargli	_	_	_	_	_	_	_	_
+3	insegnare	insegnare	VERB	V_PC	VerbForm=Inf	0	root	_	_
+4	gli	lui	VERB	V_PC	Case=Dat|Clitic=Yes|Gender=Masc|Number=Sing	3	iobj	_	_
+5	due	due	NUM	N	NumType=Card	6	nummod	_	_
+6	cosette	cosa	NOUN	S	Number=Plur	3	obj	_	_
+7	,	,	PUNCT	FF	_	3	punct	_	_
+
+# sent_id = G0125_D_22
+# text = male non fa .
+1	male	male	ADV	B	_	3	advmod	_	_
+2	non	non	ADV	BN	PronType=Neg	3	advmod	_	_
+3	fa	fare	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	.	.	PUNCT	FS	_	3	punct	_	_
+
+# sent_id = G0125_D_23
+# text = Vero , NAME_ANIMAL Eh ?
+1	Vero	vero	ADV	B	_	0	root	_	DM=Yes
+2	,	,	PUNCT	FF	_	1	punct	_	_
+3	NAME_ANIMAL	NAME_ANIMAL	PROPN	SP	_	1	parataxis	_	_
+4	Eh	Eh	INTJ	I	_	1	parataxis	_	AlignBegin=101.82
+5	?	?	PUNCT	FS	_	4	punct	_	_=|AlignEnd=102.18
+
+# sent_id = G0125_D_24
+# text = È offesa .
+1	È	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	AlignBegin=102.36
+2	offesa	offendere	ADJ	V	Gender=Fem|Number=Sing	0	root	_	_
+3	.	.	PUNCT	FS	_	2	punct	_	_=|AlignEnd=102.92
+
+# sent_id = G0125_D_25
+# text = Ho messo il bavero oggi .
+1	Ho	avere	AUX	VA	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	2	aux	_	AlignBegin=103.06
+2	messo	mettere	VERB	V	VerbForm=Part	0	root	_	_
+3	il	il	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+4	bavero	bavero	NOUN	S	Number=Sing	2	obj	_	_
+5	oggi	oggi	ADV	B	_	2	advmod	_	_
+6	.	.	PUNCT	FS	_	2	punct	_	_
+
+# sent_id = G0125_D_26
+# text = M'ha detto mannaggia a te , te lo metterei a te .
+1	M'	io	PRON	SP	Case=Dat|PronType=Prs	3	nsubj	_	SpaceAfter=No
+2	ha	avere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	detto	dire	VERB	V	VerbForm=Part	0	root	_	_
+4	mannaggia	mannaggia	ADV	V	_	3	obj	_	_
+5	a	a	ADP	E	_	6	case	_	_
+6	te	tu	PRON	PC	Case=Acc|PronType=Prs	4	obl	_	_
+7	,	,	PUNCT	FF	_	4	punct	_	_
+8	te	tu	PRON	PC	Case=Dat|PronType=Prs	10	nsubj	_	_
+9	lo	lo	PRON	PC	Case=Acc|Gender=Masc|Number=Sing	10	obj	_	_
+10	metterei	metterei	VERB	V	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
+11	a	a	ADP	E	_	12	case	_	_
+12	te	tu	PRON	PC	Case=Acc|PronType=Prs	10	obl	_	_
+13	.	.	PUNCT	FS	_	3	punct	_	_=|AlignEnd=106.22
+
