@@ -10,6 +10,8 @@ Il progetto It-tok è nato con tre obiettivi principali:
 2. mettere in evidenza le modalità con cui, su tale piattaforma, vengono trattate tematiche di rilievo per il dibattito pubblico;
 3. confrontare i correlati funzionali della sezione generale con quelli della sezione tematica.
 
+
+
 **N.B.** I file CoNLL-U corrispondenti, che pure saranno messi a disposizione, sono stati manualmente controllati solo per le colonne riguardanti la lemmatizzazione e il PoS tagging. Le colonne riguardanti le informazioni morfosintattiche riportano i risultati dell'annotazione automatica fornita da spacy. Per alcuni specifici file, estratti casualmente (riportati nella sezione successiva) si avrà una treebank manualmente annotata. Come si vede, nei file CoNLL-U non controllati per le colonne con annotazione morfosintattica, si ha comunque un unico sent_id per tutto il turno, poiché la divisione in *frasi* è una delle questioni da affrontare caso per caso.
 
 
@@ -20,7 +22,7 @@ Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato
 
 # *Sample* #
 
-Treebank of the It-Tok (T-It-tok) corpus subsection: sample made up of 15 videos from Gen_It-Tok and 15 videos from PolSo_It-Tok, randomly selected.
+Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il campione sarà di 10 video di Gen_It-Tok e 10 di PolSo_It-Tok, selezionati randomicamente.
 
 | Gen_It-Tok    |    status     | reviewed     | n. tokens |
 | ------------- | ------------- | ------------- |  ------------- |
@@ -34,11 +36,7 @@ G0125_P
 G1124_N
 G0125_1 | OK | | 358 |
 G1224_O
-G1124_Q
-G1124_F
-G1224_I
-G0125_11
-G1024_S
+
 
 |PolSo_It-Tok|    status     | reviewed     | n. tokens |
 | ------------- | ------------- | ------------- |  ------------- |
@@ -52,14 +50,10 @@ G1024_S
 0125_P
 1024_N
 1024_R
-0125_C
-0125_M
-0125_Q
-1224_V
-0125_G
 
 
-It-Tok project on Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
+
+It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 
 
 
@@ -88,3 +82,6 @@ Non so sono ancora molto in dubbio sulla questione pronomi, clitici e casi...
 
 * pause piene, da chi dipendono? testa successiva? come fossero tutte processing forse? "scrivi la tua opinione **eeh** nei **commenti**"
 
+
+# Riferimento #
+Troncone, L. (accettato). Building It-tok: an Italian TikTok corpus. Proceedings of CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics, September 24 — 26, 2025, Cagliari, Italy.
