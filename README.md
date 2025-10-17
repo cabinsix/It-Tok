@@ -69,6 +69,8 @@ It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 | pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io + 1.SG.NOM; suo -> suo + 3.SG.GEN.M |ho deciso di tenere per ogni pronome il suo lemma, ma specificando sempre caso, persona, numero come se si rifacessero allo stesso lemma|
 | dipendenza SD|    testa dello scope| _ |OK|
 | dipendenza delle pause piene e vuote | testa precedente | _ |  OK |
+| pause | lemma = "pause" | {sp},{lp},{/}, {eeh},{emh}|OK|
+|interruzioni e prolungamenti| MISC| andare{ee}= lemma "andare" + MISC: Prolonged=Yes|OK
 
 
 * "chi è del mestiere sicuramente starò sbagliando" ellissi "per"(?)
