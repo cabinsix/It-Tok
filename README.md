@@ -67,21 +67,13 @@ It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 | ------------- | ------------- | ------------- | ------------- |
 | pronomi personali   |  ogni persona ha il suo lemma    | io -> io; lei -> lei | OK |
 | pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io + 1.SG.NOM; suo -> suo + 3.SG.GEN.M |ho deciso di tenere per ogni pronome il suo lemma, ma specificando sempre caso, persona, numero come se si rifacessero allo stesso lemma|
-| dipendenza SD|    testa dello scope?| _ |OK|
-| dipendenza delle pause piene e vuote | testa successiva | _ |  BOH |
+| dipendenza SD|    testa dello scope| _ |OK|
+| dipendenza delle pause piene e vuote | testa precedente | _ |  OK |
 
-
-* Questione pronomi ancora irrisolta: usare 'io' come pronome lemma di tutti (tuo = io, 2 persona, sing, gen) o usare lemmi specifici? Ho visto che KIPARLA forest li separano. 
-
-    "fargli" : fare (= inf) + gli (= lo dat?)
-
-Non so sono ancora molto in dubbio sulla questione pronomi, clitici e casi...
 
 * "chi è del mestiere sicuramente starò sbagliando" ellissi "per"(?)
 
 * Problemi SD
 
 * che polivalente
-
-* pause piene, da chi dipendono? testa successiva? come fossero tutte processing forse? "scrivi la tua opinione **eeh** nei **commenti**"
 
