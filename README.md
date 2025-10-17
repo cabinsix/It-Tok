@@ -23,7 +23,7 @@ Troncone, L. (in press). "Building It-tok: an Italian TikTok Corpus". Proceeding
 T-It-tok è il progetto in corso per costruire una treebank di una parte del corpus It-tok.
 Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato informale, l'annotazione della treebank riporta diverse questioni, anche di implicazione teorica, che annoto sotto.
 
-# *Sample* #
+## *Sample* ##
 
 Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il campione sarà di 10 video di Gen_It-Tok e 10 di PolSo_It-Tok, selezionati randomicamente.
 
@@ -66,7 +66,7 @@ It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 | fenomeni    |    scelte     | es.     | status |
 | ------------- | ------------- | ------------- | ------------- |
 | pronomi personali   |  ogni persona ha il suo lemma    | io -> io; lei -> lei | OK |
-| pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io + 1.SG.NOM; suo -> suo + 3.SG.GEN.M.SG |ho deciso di tenere per ogni pronome il suo lemma, ma specificando sempre caso, persona, numero come se si rifacessero allo stesso lemma|
+| pronomi personali in casi   |    ogni caso ha il suo lemma     | io -> io + 1.SG.NOM; suo -> suo + 3.SG.GEN.M |ho deciso di tenere per ogni pronome il suo lemma, ma specificando sempre caso, persona, numero come se si rifacessero allo stesso lemma|
 | dipendenza SD|    testa dello scope?| _ |OK|
 | dipendenza delle pause piene e vuote | testa successiva | _ |  BOH |
 
@@ -85,6 +85,3 @@ Non so sono ancora molto in dubbio sulla questione pronomi, clitici e casi...
 
 * pause piene, da chi dipendono? testa successiva? come fossero tutte processing forse? "scrivi la tua opinione **eeh** nei **commenti**"
 
-
-# Riferimento #
-Troncone, L. (accettato). Building It-tok: an Italian TikTok corpus. Proceedings of CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics, September 24 — 26, 2025, Cagliari, Italy.
