@@ -29,16 +29,16 @@ Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il ca
 
 | Gen_It-Tok    |    status     | reviewed     | n. tokens |
 | ------------- | ------------- | ------------- |  ------------- |
-|G0125_D   |OK| | 390 |
-G1024_Q | OK| | 216 |
-G1224_H | OK | |414|
-G0125_O | in segmentazione || ca. 900
+|G0125_D   |completo| | 390 |
+G1024_Q | completo| | 216 |
+G1224_H | completo | |414|
+G0125_O | prima segmentazione fatta, in annotazione || ca. 900
 G1224_M | allineato || ca. 315
 G1024_D|allineato || ca. 147
 G0125_P |allineato||ca. 310
-G1124_N |allineato |ca. 440
-G0125_1 | OK | | 358 |
-G0125_L_O|allineato |ca. 680 |
+G1124_N |allineato ||ca. 440
+G0125_1 | completo | | 358 |
+G0125_L_O|allineato ||ca. 680 |
 | **TOT. completi**|**4**||**2.287**|
 
 
