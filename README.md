@@ -32,7 +32,7 @@ Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il ca
 |G0125_D   |completo| | 390 |
 G1024_Q | completo| | 216 |
 G1224_H | completo | |414|
-G0125_O | prima segmentazione fatta, in annotazione || ca. 1000
+G0125_O | prima segmentazione fatta, in annotazione, bugs on Arborator, missing sentences 24-25 || ca. 1000
 G1224_M | allineato || ca. 315
 G1024_D|allineato || ca. 147
 G0125_P |allineato||ca. 310
