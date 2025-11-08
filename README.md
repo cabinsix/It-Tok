@@ -74,6 +74,7 @@ It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 | pause | lemma = "pause" | _{sp},{lp},{/}, {eeh},{emh}_|OK|
 |interruzioni e prolungamenti| MISC| _andare{ee}_= lemma "andare" + MISC: Prolonged=Yes|OK
 
+* E fai x e sei Y, e fai z e se k... l'ho annotati come congiunti(?)
 
 * "chi è del mestiere sicuramente starò sbagliando" ellissi "per"(?)
 
