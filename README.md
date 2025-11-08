@@ -33,13 +33,13 @@ Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il ca
 G1024_Q | completo| | 216 |
 G1224_H | completo | |414|
 G0125_O | completo|| 974
-G1224_M | in segmentazione || ca. 315
+G1224_M | in segmentazione || 345
 G1024_D|allineato || ca. 147
 G0125_P |allineato||ca. 310
 G1124_N |allineato ||ca. 440
 G0125_1 | completo | | 358 |
 G0125_L_O|allineato ||ca. 680 |
-| **TOT. completi**|**4**||**3.261**|
+| **TOT. completi**|**5**||**3.606**|
 
 
 |PolSo_It-Tok|    status     | reviewed     | n. tokens |
