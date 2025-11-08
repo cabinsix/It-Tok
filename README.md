@@ -32,14 +32,14 @@ Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il ca
 |G0125_D   |completo| | 390 |
 G1024_Q | completo| | 216 |
 G1224_H | completo | |414|
-G0125_O | prima segmentazione fatta, in annotazione, bugs on Arborator, missing sentences 24-25 || ca. 1000
-G1224_M | allineato || ca. 315
+G0125_O | completo|| 974
+G1224_M | in segmentazione || ca. 315
 G1024_D|allineato || ca. 147
 G0125_P |allineato||ca. 310
 G1124_N |allineato ||ca. 440
 G0125_1 | completo | | 358 |
 G0125_L_O|allineato ||ca. 680 |
-| **TOT. completi**|**4**||**2.287**|
+| **TOT. completi**|**4**||**3.261**|
 
 
 |PolSo_It-Tok|    status     | reviewed     | n. tokens |
