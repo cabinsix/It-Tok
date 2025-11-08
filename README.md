@@ -34,12 +34,12 @@ G1024_Q | completo| | 216 |
 G1224_H | completo | |414|
 G0125_O | completo|| 974
 G1224_M | completo || 345
-G1024_D|in annotazione || ca. 147
-G0125_P |allineato||ca. 310
+G1024_D|completo || 170
+G0125_P |in annotazione||ca. 310
 G1124_N |allineato ||ca. 440
 G0125_1 | completo | | 358 |
 G0125_L_O|allineato ||ca. 680 |
-| **TOT. completi**|**5**||**3.606**|
+| **TOT. completi**|**5**||**3.776**|
 
 
 |PolSo_It-Tok|    status     | reviewed     | n. tokens |
