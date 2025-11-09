@@ -39,7 +39,7 @@ G0125_P |in annotazione||ca. 310
 G1124_N |allineato ||ca. 440
 G0125_1 | completo | | 358 |
 G0125_L_O|allineato ||ca. 680 |
-| **TOT. completi**|**5**||**3.776**|
+| **TOT. completi**|**7**||**2.867**|
 
 
 |PolSo_It-Tok|    status     | reviewed     | n. tokens |
