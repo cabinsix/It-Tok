@@ -22,7 +22,7 @@ Troncone, L. (in press). "Building It-tok: an Italian TikTok Corpus". Proceeding
 
 T-It-tok è il progetto in corso per costruire una treebank di una parte del corpus It-tok.
 Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato informale, l'annotazione della treebank riporta diverse questioni, anche di implicazione teorica, che annoto sotto.
-Su Arborator le trascrizioni da cui traiamo la treebank comprendono la punteggiatura. Alla fine del lavoro di annotazione la punteggiatura verrà rimossa con le sue relative annotazioni.
+Su Arborator le trascrizioni da cui traiamo la treebank comprendono la punteggiatura. Alla fine del lavoro di annotazione la punteggiatura verrà rimossa con le sue relative annotazioni, tenendo cura di traslare gli allineamenti che eventualmente portano tali token ai token adiacenti.
 
 ## *Sample* ##
 
@@ -39,21 +39,21 @@ G1024_D|completo || 170
 G0125_P |completo||337
 G1124_N |completo ||609
 G0125_1 | completo | | 358 |
-G0125_16|in segmentazione ||ca. 1240 |
+G0125_16|in segmentazione ||ca. 616/1270 |
 | **TOT. completi**|**9**||**3.813**|
 
 
 |PolSo_It-Tok|    status     | reviewed     | n. tokens |
 | ------------- | ------------- | ------------- |  ------------- |
-|1024_E| |
-0125_B
-1224_U
-1124_N
+|1024_S| allineato || ca. 1928
+0125_V| allineato ||ca. 1782
+1224_G| allineato ||ca 692
+1124_S| allineato ||ca. 196
 1224_E
 1124_G
 1224_F
-0125_P
-1024_N
+0125_A
+1024_Q
 1024_R
 | TOT. |
 
