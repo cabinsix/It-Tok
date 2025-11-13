@@ -39,7 +39,7 @@ G1024_D|completo || 170
 G0125_P |completo||337
 G1124_N |completo ||609
 G0125_1 | completo | | 358 |
-G0125_16|in segmentazione ||ca. 616/1270 |
+G0125_16|in segmentazione ||ca. 1062/1311 |
 | **TOT. completi**|**9**||**3.813**|
 
 
