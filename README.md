@@ -24,6 +24,8 @@ T-It-tok è il progetto in corso per costruire una treebank di una parte del cor
 Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato informale, l'annotazione della treebank riporta diverse questioni, anche di implicazione teorica, che annoto sotto.
 Su Arborator le trascrizioni da cui traiamo la treebank comprendono la punteggiatura. Alla fine del lavoro di annotazione la punteggiatura verrà rimossa con le sue relative annotazioni, tenendo cura di traslare gli allineamenti che eventualmente portano tali token ai token adiacenti.
 
+La sezione di It-tok in annotazione come treebank è consultabile su Arborator (https://arborator.grew.fr/?#/projects/It-tok) nella sezione Grew, con il linguaggio utilizzabile su GrewMatch. Solo i file senza "_aligned" nel nome (es. X0000_X0 invece di X0000_X0_aligned) sono completi di corretta annotazione di split in frasi, dipendenze e feature morfologiche.
+
 ## *Sample* ##
 
 Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il campione sarà di 10 video di Gen_It-Tok e 10 di PolSo_It-Tok, selezionati randomicamente.
