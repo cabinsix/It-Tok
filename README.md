@@ -14,19 +14,23 @@ Il progetto It-tok è nato con tre obiettivi principali:
 **N.B.** I file CoNLL-U corrispondenti, che pure saranno messi a disposizione, sono stati manualmente controllati solo per le colonne riguardanti la lemmatizzazione e il PoS tagging. Le colonne riguardanti le informazioni morfosintattiche riportano i risultati dell'annotazione automatica fornita da spacy. Per alcuni specifici file, estratti casualmente (riportati nella sezione successiva) si avrà una treebank manualmente annotata. Come si vede, nei file CoNLL-U non controllati per le colonne con annotazione morfosintattica, si ha comunque un unico sent_id per tutto il turno, poiché la divisione in *frasi* è una delle questioni da affrontare caso per caso.
 
 
-## Riferimento ##
+### Riferimento ###
 Troncone, L. (in press). "Building It-tok: an Italian TikTok Corpus". Proceedings of CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics, pre-print at https://www.researchgate.net/publication/396559002_Building_It-tok_an_Italian_TikTok_corpus
 
 
-# **T-It-tok** #
+## **T-It-tok** ##
 
 T-It-tok è il progetto in corso per costruire una treebank di una parte del corpus It-tok.
 Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato informale, l'annotazione della treebank riporta diverse questioni, anche di implicazione teorica, che annoto sotto.
+
+It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
+
 Su Arborator le trascrizioni da cui traiamo la treebank comprendono la punteggiatura. Alla fine del lavoro di annotazione la punteggiatura verrà rimossa con le sue relative annotazioni, tenendo cura di traslare gli allineamenti che eventualmente portano tali token ai token adiacenti.
 
+### Consultabilità ###
 La sezione di It-tok in annotazione come treebank è consultabile su Arborator (https://arborator.grew.fr/?#/projects/It-tok) nella sezione Grew, con il linguaggio utilizzabile su GrewMatch. Solo i file senza "_aligned" nel nome (es. X0000_X0 invece di X0000_X0_aligned) sono completi di corretta annotazione di split in frasi, dipendenze e feature morfologiche.
 
-## *Sample* ##
+### Campione e procedimento dei lavori ###
 
 Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il campione sarà di 10 video di Gen_It-Tok e 10 di PolSo_It-Tok, selezionati randomicamente.
 
@@ -45,27 +49,8 @@ G0125_16|completo ||ca. 1318 |
 | **TOT. completi**|**10**||**5.131**|
 
 
-|PolSo_It-Tok|    status     | reviewed     | n. tokens |
-| ------------- | ------------- | ------------- |  ------------- |
-|1024_S| in segmentazione || ca. 1928
-0125_V| allineato ||ca. 1782
-1224_G| allineato ||ca 692
-1124_S| allineato ||ca. 196
-1224_E
-1124_G
-1224_F
-0125_A
-1024_Q
-1024_R
-| **TOT. completi** |
 
-
-
-It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
-
-
-
-# **Appunti e problemi irrisolti** #
+### **Appunti e problemi irrisolti** ###
 
 
 | fenomeni    |    scelte     | es.     | status | 
