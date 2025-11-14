@@ -39,13 +39,13 @@ G1024_D|completo || 170
 G0125_P |completo||337
 G1124_N |completo ||609
 G0125_1 | completo | | 358 |
-G0125_16|in annotazione ||ca. 1062/1311 |
-| **TOT. completi**|**9**||**3.813**|
+G0125_16|completo ||ca. 1318 |
+| **TOT. completi**|**10**||**5.131**|
 
 
 |PolSo_It-Tok|    status     | reviewed     | n. tokens |
 | ------------- | ------------- | ------------- |  ------------- |
-|1024_S| allineato || ca. 1928
+|1024_S| in segmentazione || ca. 1928
 0125_V| allineato ||ca. 1782
 1224_G| allineato ||ca 692
 1124_S| allineato ||ca. 196
