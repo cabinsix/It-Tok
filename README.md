@@ -36,17 +36,17 @@ Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il ca
 
 | Gen_It-Tok    |    status     | reviewed     | n. tokens       |     | PolSo_It-Tok  |    status       | reviewed     | n. tokens |
 | ------------- | ------------- | ------------- |  ------------- |-----| ------------- | ------------- | ------------- |  ------------- |
-|G0125_D        |completo        |               |       390     |      |1024_S        | in segmentazione |            | ca. 1928
-G1024_Q         | completo      |                | 216           |      |0125_V        | allineato       |            |ca. 1782
-G1224_H         | completo      |                 |414            |     |1224_G        | allineato       |              |ca 692
-G0125_O         | completo      |                |   974        |      |  1124_S       | allineato       |              |ca. 196
+|G0125_D        |completo        |               |       390     |      |1024_S        | in segmentazione |            | 130/1928
+G1024_Q         | completo      |                | 216           |      |0125_U        |
+G1224_H         | completo      |                 |414            |     |1224_G        | in segmentazione       |              |ca 692
+G0125_O         | completo      |                |   974        |      |  1124_S       | completo       |              |213
 G1224_M         | completo     |                | 345            |      |1224_E        |
 G1024_D         |completo       |                | 170            |     |1124_G
 G0125_P         |completo      |                  |337           |      |1224_F 
 G1124_N         |completo      |                  |609          |        |0125_A
 G0125_1         | completo     |                 | 358         |        |1024_Q
 G0125_16        |completo       |              |   1318         |        |1024_R
-| **TOT. completi**|**10**||**5.131**|                                  || **TOT. completi** |
+| **TOT. completi**|**10**||**5.131**|                                  || **TOT. completi** |  **1**    |              |  **213**  |
 
 
 
