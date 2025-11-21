@@ -38,7 +38,7 @@ Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il ca
 | ------------- | ------------- | ------------- |  ------------- |-----| ------------- | ------------- | ------------- |  ------------- |
 |G0125_D        |completo        |               |       390     |      |1024_S        | in segmentazione |            | 610/1928
 G1024_Q         | completo      |                | 216           |      |0125_U        |
-G1224_H         | completo      |                 |414            |     |1224_G        | in annotazione       |              |ca 422/692
+G1224_H         | completo      |                 |414            |     |1224_G        | completo       |              |733
 G0125_O         | completo      |                |   974        |      |  1124_S       | completo       |              |213
 G1224_M         | completo     |                | 345            |      |1224_E        |
 G1024_D         |completo       |                | 170            |     |1124_G
