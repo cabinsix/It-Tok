@@ -46,7 +46,7 @@ G0125_P         |completo      |                  |337           |      |1224_F
 G1124_N         |completo      |                  |609          |        |0125_A
 G0125_1         | completo     |                 | 358         |        |1024_Q
 G0125_16        |completo       |              |   1318         |        |1024_R
-| **TOT. completi**|**10**||**5.131**|                                  || **TOT. completi** |  **2**    |              |  **946**  |
+| **TOT. completi**|**10**||**5.131**|                                  || **TOT. completi** |  **2**    |                **946**  
 
 
 
