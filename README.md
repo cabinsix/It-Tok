@@ -18,7 +18,7 @@ Il progetto It-tok è nato con tre obiettivi principali:
 Troncone, L. (in press). "Building It-tok: an Italian TikTok Corpus". Proceedings of CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics, pre-print at https://www.researchgate.net/publication/396559002_Building_It-tok_an_Italian_TikTok_corpus
 
 
-## **T-It-tok** ##
+## **Tr-It-tok** ##
 
 T-It-tok è il progetto in corso per costruire una treebank di una parte del corpus It-tok.
 Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato informale, l'annotazione della treebank riporta diverse questioni, anche di implicazione teorica, che annoto sotto.
