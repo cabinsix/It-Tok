@@ -32,7 +32,7 @@ La sezione di It-tok in annotazione come treebank è consultabile su Arborator (
 
 ### Campione e procedimento dei lavori ###
 
-Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il campione sarà di 10 video di Gen_It-Tok e 10 di PolSo_It-Tok, selezionati randomicamente.
+Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il campione sarà di video di Gen_It-Tok e  di PolSo_It-Tok, per un totale di circa 10.000 token (=ca. 15% It-tok), selezionati randomicamente.
 
 | Gen_It-Tok    |    status     | reviewed     | n. tokens       |     | PolSo_It-Tok  |    status       | reviewed     | n. tokens |
 | ------------- | ------------- | ------------- |  ------------- |-----| ------------- | ------------- | ------------- |  ------------- |
