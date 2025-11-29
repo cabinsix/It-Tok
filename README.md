@@ -36,8 +36,8 @@ Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il ca
 
 | Gen_It-Tok    |    status     | reviewed     | n. tokens       |     | PolSo_It-Tok  |    status       | reviewed     | n. tokens |
 | ------------- | ------------- | ------------- |  ------------- |-----| ------------- | ------------- | ------------- |  ------------- |
-|G0125_D        |completo        |               |       390     |      |1024_S        | in annotazione |            | 1708/2000
-G1024_Q         | completo      |                | 216           |      |0125_U        | allineato       |            | ca. 400
+|G0125_D        |completo        |               |       390     |      |1024_S        | completo |            | 1992
+G1024_Q         | completo      |                | 216           |      |0125_U        | in annotazione       |            | ca. 400
 G1224_H         | completo      |                 |414            |     |1224_G        | completo       |              |733
 G0125_O         | completo      |                |   974        |      |  1124_S       | completo       |              |213
 G1224_M         | completo     |                | 345            |      |1224_E        |allineato       |              |ca. 300
@@ -46,7 +46,7 @@ G0125_P         |completo      |                  |337           |      |1124_L 
 G1124_N         |completo      |                  |609          |        |0125_A        |allineato |                    | ca. 600
 G0125_1         | completo     |                 | 358         |        
 G0125_16        |completo       |              |   1318         |        
-| **TOT. completi**|**10**||**5.131**|                                  | **TOT. completi** |  **2**    |         |       **946**  
+| **TOT. completi**|**10**||**5.131**|                                  | **TOT. completi** |  **3**    |         |       **2938**  
 |**TOT. token annotati**            |                                                   6.077                                      |
 
 
