@@ -40,14 +40,14 @@ Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il ca
 G1024_Q         | completo      |                | 216           |      |0125_U        | completo       |            | 378
 G1224_H         | completo      |                 |414            |     |1224_G        | completo       |              |733
 G0125_O         | completo      |                |   974        |      |  1124_S       | completo       |              |213
-G1224_M         | completo     |                | 345            |      |1224_E        |in segmentazione       |              |ca. 300
+G1224_M         | completo     |                | 345            |      |1224_E        |completo       |              |307
 G1024_D         |completo       |                | 170            |     |1124_G        |allineato       |              |ca. 350
 G0125_P         |completo      |                  |337           |      |1124_L         |allineato       |              | ca. 700
 G1124_N         |completo      |                  |609          |        |1024_R        |completo |                    | 643
 G0125_1         | completo     |                 | 358         |        
 G0125_16        |completo       |              |   1318         |        
-| **TOT. completi**|**10**||**5.131**|                                  | **TOT. completi** |  **5**    |         |       **3.759**  
-|**TOT. video annotati** | |**15** | |**TOT. token annotati**            |                |**7.098**        |                                                                   |
+| **TOT. completi**|**10**||**5.131**|                                  | **TOT. completi** |  **6**    |         |       **1.066**  
+|**TOT. video annotati** | |**16** | |**TOT. token annotati**            |                |**7.405**        |                                                                   |
 
 
 
