@@ -46,8 +46,8 @@ G0125_P         |completo    |337           |      |1124_L         |completo    
 G1124_N         |completo      |609          |        |1024_R        |completo     | 643
 G0125_1         | completo         | 358         |        
 G0125_16        |completo         |   1318         |        
-| **TOT. completi**|**10**||**5.131**|                                  | **TOT. completi** |  **7**    |         |       **5.001**  
-|**TOT. video annotati** | |**17** | |**TOT. token annotati**            |                |**10.131**        |                                                                   |
+| **TOT. completi**|**10**|**5.131**|                   | **TOT. completi** |  **7**    |           **5.001**  
+|**TOT. video annotati** ||**17** | |**TOT. token annotati**            |                |**10.131**        |                                                                   |
 
 
 
