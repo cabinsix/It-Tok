@@ -11,6 +11,14 @@ Il progetto It-tok è nato con tre obiettivi principali:
 3. confrontare i correlati funzionali della sezione generale con quelli della sezione tematica.
 
 
+| subcorpus    |    durata totale      | n. tokens       |   
+| ------------- | ------------- | ------------- |
+|Gen          |       4:06:04         |      35 254      |  
+|PolSo          |      3:43:49          |     32 581       |  
+|          |                |            |  
+|It-tok          |       7:50:54         |      67 835      |  
+
+
 **N.B.** I file CoNLL-U corrispondenti, che pure saranno messi a disposizione, sono stati manualmente controllati solo per le colonne riguardanti la lemmatizzazione e il PoS tagging. Le colonne riguardanti le informazioni morfosintattiche riportano i risultati dell'annotazione automatica fornita da spacy. Per alcuni specifici file, estratti casualmente (riportati nella sezione successiva) si avrà una treebank manualmente annotata. Come si vede, nei file CoNLL-U non controllati per le colonne con annotazione morfosintattica, si ha comunque un unico sent_id per tutto il turno, poiché la divisione in *frasi* è una delle questioni da affrontare caso per caso.
 
 
