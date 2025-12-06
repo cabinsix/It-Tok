@@ -49,13 +49,13 @@ G1024_Q         | completo       | 216           |      |0125_U        | complet
 G1224_H         | completo       |414            |     |1224_G        | completo     |733
 G0125_O         | completo       |   974        |      |  1124_S       | completo    |213
 G1224_M         | completo     | 345            |      |1224_E        |completo      |307
-G1024_D         |completo       | 170            |     |1124_G        |allineato     |ca. 350
+G1024_D         |completo       | 170            |     |1124_G        |completo     |357
 G0125_P         |completo    |337           |      |1124_L         |completo     | 735
 G1124_N         |completo      |609          |        |1024_R        |completo     | 643
 G0125_1         | completo         | 358         |        
 G0125_16        |completo         |   1318         |        
-| **TOT. completi**|**10**|**5.131**|                   | **TOT. completi** |  **7**    |           **5.001**  
-|**TOT. video annotati** ||**17** | |**TOT. token annotati**            |                |**10.131**        |                                                                   |
+| **TOT. completi**|**10**|**5.131**|                   | **TOT. completi** |  **8**    |           **5.358**  
+|**TOT. video annotati** ||**18** | |**TOT. token annotati**            |                |**10.488**        |                                                                   |
 
 
 
