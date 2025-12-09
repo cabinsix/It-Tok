@@ -42,20 +42,20 @@ La sezione di It-tok in annotazione come treebank è consultabile su Arborator (
 
 Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il campione sarà di video di Gen_It-Tok e  di PolSo_It-Tok, per un totale di circa 10.000 token (=ca. 15% It-tok), selezionati randomicamente.
 
-| Gen_It-Tok    |    status      | n. tokens       |     | PolSo_It-Tok  |    status    | n. tokens |
-| ------------- | ------------- | ------------- |  ------------- |-----| ------------- | ------------- |
-|G0125_D        |completo        |       390     |      |1024_S        | completo  | 1992
-G1024_Q         | completo       | 216           |      |0125_U        | completo      | 378
-G1224_H         | completo       |414            |     |1224_G        | completo     |733
-G0125_O         | completo       |   974        |      |  1124_S       | completo    |213
-G1224_M         | completo     | 345            |      |1224_E        |completo      |307
-G1024_D         |completo       | 170            |     |1124_G        |completo     |357
-G0125_P         |completo    |337           |      |1124_L         |completo     | 735
-G1124_N         |completo      |609          |        |1024_R        |completo     | 643
-G0125_1         | completo         | 358         |        
-G0125_16        |completo         |   1318         |        
-| **TOT. completi**|**10**|**5.131**|                   | **TOT. completi** |  **8**    |           **5.358**  
-|**TOT. video annotati** ||**18** | |**TOT. token annotati**            |                |**10.488**        |                                                                   |
+| Gen_It-Tok    |    status      | n. tokens       |n. frasi     | PolSo_It-Tok  |    status    | n. tokens | n. frasi |
+| ------------- | ------------- | ------------- |  ------------- |-----| ------------- | ------------- | ------------- |
+|G0125_D        |completo        |       390     |    11  |1024_S        | completo  | 1992 | 52
+G1024_Q         | completo       | 216           |  17    |0125_U        | completo      | 378 | 17
+G1224_H         | completo       |414            |  29   |1224_G        | completo     |733 | 37
+G0125_O         | completo       |   974        |  30    |  1124_S       | completo    |213 | 9
+G1224_M         | completo     | 345            |  18    |1224_E        |completo      |307 | 9
+G1024_D         |completo       | 170            |  26   |1124_G        |completo     |357 | 9
+G0125_P         |completo    |337           |   13   |1124_L         |completo     | 735 | 27
+G1124_N         |completo      |609          |  22      |1024_R        |completo     | 643 | 31
+G0125_1         | completo         | 358         |  25 |      
+G0125_16        |completo         |   1318         |  43|      
+| **TOT. completi**|**10**|**5.131**|    tot. frasi               | **TOT. completi** |  **8**    |           **5.358**  | tot. frasi
+|**TOT. video annotati**  |**18** | **TOT. token annotati**    |**10.488**        |  TOT. frasi annotate  | 
 
 
 
