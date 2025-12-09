@@ -54,8 +54,8 @@ G0125_P         |completo    |337           |   13   |1124_L         |completo  
 G1124_N         |completo      |609          |  22      |1024_R        |completo     | 643 | 31
 G0125_1         | completo         | 358         |  25 |      
 G0125_16        |completo         |   1318         |  43|      
-| **TOT. completi**|**10**|**5.131**|    tot. frasi               | **TOT. completi** |  **8**    |           **5.358**  | tot. frasi
-|**TOT. video annotati**  |**18** | **TOT. token annotati**    |**10.488**        |  TOT. frasi annotate  | 
+| **TOT. completi**|**10**|**5.131**|    tot. frasi   234            | **TOT. completi** |  **8**    |           **5.358**  | tot. frasi 191
+|**TOT. video annotati**  |**18** | **TOT. token annotati**    |**10.488**        |  TOT. frasi annotate  |  425
 
 
 
