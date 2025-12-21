@@ -52,10 +52,10 @@ G1224_M         | completo     | 345            |  18    |1224_E        |complet
 G1024_D         |completo       | 170            |  26   |1124_G        |completo     |357 | 9
 G0125_P         |completo    |337           |   13   |1124_L         |completo     | 735 | 27
 G1124_N         |completo      |609          |  22      |1024_R        |completo     | 643 | 31
-G0125_1         | completo         | 358         |  25 |      
+G0125_1         | completo         | 358         |  25 |      0125_I | completo | 435 | 14
 G0125_16        |completo         |   1318         |  43|      
-| **TOT. completi**|**10**|**5.131**|    tot. frasi   234            | **TOT. completi** |  **8**    |           **5.358**  | tot. frasi 191
-|**TOT. video annotati**  |**18** | **TOT. token annotati**    |**10.488**        |  TOT. frasi annotate  |  425
+| **TOT. completi**|**10**|**5.131**|    tot. frasi   234            | **TOT. completi** |  **8**    |           **5.793**  | tot. frasi 205
+|**TOT. video annotati**  |**18** | **TOT. token annotati**    |**10.923**        |  TOT. frasi annotate  |  439
 
 
 
