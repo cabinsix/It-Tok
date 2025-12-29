@@ -19,8 +19,6 @@ Il progetto It-tok è nato con tre obiettivi principali:
 |It-tok          |       7:50:54         |      67 835      |  
 
 
-**N.B.** I file CoNLL-U corrispondenti, che pure saranno messi a disposizione, sono stati manualmente controllati solo per le colonne riguardanti la lemmatizzazione e il PoS tagging. Le colonne riguardanti le informazioni morfosintattiche riportano i risultati dell'annotazione automatica fornita da spacy. Per alcuni specifici file, estratti casualmente (riportati nella sezione successiva) si avrà una treebank manualmente annotata. Come si vede, nei file CoNLL-U non controllati per le colonne con annotazione morfosintattica, si ha comunque un unico sent_id per tutto il turno, poiché la divisione in *frasi* è una delle questioni da affrontare caso per caso.
-
 
 ### Riferimento ###
 Troncone, L. (in press). "Building It-tok: an Italian TikTok Corpus". Proceedings of CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics, pre-print at https://www.researchgate.net/publication/396559002_Building_It-tok_an_Italian_TikTok_corpus
@@ -29,11 +27,11 @@ Troncone, L. (in press). "Building It-tok: an Italian TikTok Corpus". Proceeding
 ## **Tr-It-tok** ##
 
 T-It-tok è il progetto in corso per costruire una treebank di una parte del corpus It-tok.
-Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato informale, l'annotazione della treebank riporta diverse questioni, anche di implicazione teorica, che annoto sotto.
+Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato informale, l'annotazione della treebank riporta diverse questioni, anche di implicazione teorica, di cui prendo nota sotto.
 
 It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 
-Su Arborator le trascrizioni da cui traiamo la treebank comprendono la punteggiatura. Alla fine del lavoro di annotazione la punteggiatura verrà rimossa con le sue relative annotazioni, tenendo cura di traslare gli allineamenti che eventualmente portano tali token ai token adiacenti.
+Su Arborator le trascrizioni da cui traiamo la treebank comprendono la punteggiatura, ma l'annotazione no.
 
 ### Consultabilità ###
 La sezione di It-tok in annotazione come treebank è consultabile su Arborator (https://arborator.grew.fr/?#/projects/It-tok) nella sezione Grew, con il linguaggio utilizzabile su GrewMatch. Solo i file senza "_aligned" nel nome (es. X0000_X0 invece di X0000_X0_aligned) sono completi di corretta annotazione di split in frasi, dipendenze e feature morfologiche.
@@ -44,18 +42,18 @@ Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il ca
 
 | Gen_It-Tok    |    status      | n. tokens       |n. frasi     | PolSo_It-Tok  |    status    | n. tokens | n. frasi |
 | ------------- | ------------- | ------------- |  ------------- |-----| ------------- | ------------- | ------------- |
-|G0125_D        |completo        |       390     |    11  |1024_S        | completo  | 1992 | 52
-G1024_Q         | completo       | 216           |  17    |0125_U        | completo      | 378 | 17
-G1224_H         | completo       |414            |  29   |1224_G        | completo     |733 | 37
-G0125_O         | completo       |   974        |  30    |  1124_S       | completo    |213 | 9
-G1224_M         | completo     | 345            |  18    |1224_E        |completo      |307 | 9
-G1024_D         |completo       | 170            |  26   |1124_G        |completo     |357 | 9
-G0125_P         |completo    |337           |   13   |1124_L         |completo     | 735 | 27
-G1124_N         |completo      |609          |  22      |1024_R        |completo     | 643 | 31
-G0125_1         | completo         | 358         |  25 |      0125_I | completo | 435 | 14
-G0125_16        |completo         |   1318         |  43|      1025_U | in annotazione | 324 | 20
-| **TOT. completi**|**10**|**5.131**|    tot. frasi   234            | **TOT. completi** |  **10**    |           **6.111**  | tot. frasi 225
-|**TOT. video annotati**  |**19** | **TOT. token annotati**    |**10.923**        |  TOT. frasi annotate  |  439
+|G0125_D        |completo        |       153     |    11  |1024_S        | completo  | 1809 | 52
+G1024_Q         | completo       | 202           |  17    |0125_U        | completo      | 355 | 17
+G1224_H         | completo       |383            |  29   |1224_G        | completo     |653 | 37
+G0125_O         | completo       |   897        |  30    |  1124_S       | completo    |189 | 9
+G1224_M         | completo     | 321            |  18    |1224_E        |completo      |268 | 9
+G1024_D         |completo       | 337            |  26   |1124_G        |completo     |340 | 9
+G0125_P         |completo    |308           |   13   |1124_L         |completo     | 672 | 27
+G1124_N         |completo      |560          |  22      |1024_R        |completo     | 582 | 31
+G0125_1         | completo         | 265         |  20 |      0125_I | completo | 404 | 14
+G0125_16        |completo         |   1214         |  43|      1025_U | completo | 274 | 20
+| **TOT. completi**|**10**|**4.640**|    tot. frasi   229            | **TOT. completi** |  **10**    |           **5.546**  | tot. frasi 225
+|**TOT. video annotati**  |**20** | **TOT. token annotati**    |**10.186**        |  TOT. frasi annotate  |  454
 
 
 
