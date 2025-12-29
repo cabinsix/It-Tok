@@ -53,8 +53,8 @@ G1024_D         |completo       | 170            |  26   |1124_G        |complet
 G0125_P         |completo    |337           |   13   |1124_L         |completo     | 735 | 27
 G1124_N         |completo      |609          |  22      |1024_R        |completo     | 643 | 31
 G0125_1         | completo         | 358         |  25 |      0125_I | completo | 435 | 14
-G0125_16        |completo         |   1318         |  43|      1025_F | in annotazione | 574 |
-| **TOT. completi**|**10**|**5.131**|    tot. frasi   234            | **TOT. completi** |  **9**    |           **5.793**  | tot. frasi 205
+G0125_16        |completo         |   1318         |  43|      1025_U | in annotazione | 324 | 20
+| **TOT. completi**|**10**|**5.131**|    tot. frasi   234            | **TOT. completi** |  **10**    |           **6.111**  | tot. frasi 225
 |**TOT. video annotati**  |**19** | **TOT. token annotati**    |**10.923**        |  TOT. frasi annotate  |  439
 
 
