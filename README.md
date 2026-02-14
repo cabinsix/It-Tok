@@ -29,7 +29,7 @@ Il progetto It-tok è nato con tre obiettivi principali:
 
 
 ### Riferimento ###
-Troncone, L. (in press). "Building It-tok: an Italian TikTok Corpus". Proceedings of CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics, pre-print at https://www.researchgate.net/publication/396559002_Building_It-tok_an_Italian_TikTok_corpus
+Troncone, L. (2025). "Building It-tok: an Italian TikTok Corpus". Proceedings of CLiC-it 2025: Eleventh Italian Conference on Computational Linguistics, pre-print at https://www.researchgate.net/publication/396559002_Building_It-tok_an_Italian_TikTok_corpus
 
 
 ## **Tr-It-tok** ##
