@@ -4,7 +4,7 @@ It-tok è un corpus di parlato di TikTok, raccolto tra marzo e aprile 2025. Esso
 
 ## Acecssibilità
 
-It-tok è disponibile sotto compilazione della liberatoria allegata nella presente repository, in formato tabulare trascritto. È comunque necessario ottenere l'API ricerca di TikTok per ricevere i dati. L'API è richiedibile all'indirizzo: https://developers.tiktok.com/products/research-api/
+It-tok è disponibile sotto compilazione della liberatoria allegata nella presente repository, in formato tabulare trascritto. È comunque necessario richiedere l'API ricerca di TikTok all'indirizzo: https://developers.tiktok.com/products/research-api/
 
 L'API prende un paio di settimane.
 
