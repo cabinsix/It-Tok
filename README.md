@@ -2,7 +2,7 @@
 
 It-tok è un corpus di parlato di TikTok, raccolto tra marzo e aprile 2025. Esso è composto di due sottosezioni, una di argomento politico-sociale (PolSo) e una di argomento generalista (Gen). L'obiettivo con cui il corpus è stato raccolto riguarda l'individuazione dei correlati funzionali del parlato di TikTok, da un lato, e la comparazione del parlato generalista di TikTok con quello di argomento socio-politico. 
 
-## Acecssibilità
+## Accessibilità
 
 It-tok è disponibile sotto compilazione della liberatoria allegata nella presente repository, in formato tabulare trascritto. È comunque necessario richiedere l'API ricerca di TikTok all'indirizzo: https://developers.tiktok.com/products/research-api/
 
