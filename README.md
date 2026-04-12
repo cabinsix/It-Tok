@@ -34,8 +34,7 @@ Troncone, L. (2025). "Building It-tok: an Italian TikTok Corpus". Proceedings of
 
 ## **Tr-It-tok** ##
 
-T-It-tok è il progetto in corso per costruire una treebank di una parte del corpus It-tok.
-Dal momento che si tratta di annotazione morfosintattica di un corpus di parlato informale, l'annotazione della treebank riporta diverse questioni, anche di implicazione teorica, di cui prendo nota sotto.
+T-It-tok si riferisce alla sezione di It-tok annotata manualmente in CoNLL-U.
 
 It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 
@@ -46,7 +45,7 @@ La sezione di It-tok in annotazione come treebank è consultabile su Arborator (
 
 ### Campione e procedimento dei lavori ###
 
-Sottosezione di It-Tok di cui si stanno annotando le treebank (T-It-tok) : il campione sarà di video di Gen_It-Tok e  di PolSo_It-Tok, per un totale di circa 10.000 token (=ca. 15% It-tok), selezionati randomicamente.
+Il campione comprende 10 video di Gen_It-Tok e 10 di PolSo_It-Tok, per un totale di circa 10.000 token (=ca. 15% It-tok), selezionati randomicamente.
 
 | Gen_It-Tok    |    status      | n. tokens       |n. frasi     | PolSo_It-Tok  |    status    | n. tokens | n. frasi |
 | ------------- | ------------- | ------------- |  ------------- |-----| ------------- | ------------- | ------------- |
@@ -68,7 +67,7 @@ G0125_16        |completo         |   1214         |  43|      1025_U | completo
 
 
 
-### **Appunti e problemi irrisolti** ###
+### **Appunti e problemi ** ###
 
 
 | fenomeni    |    scelte     | es.     | status | 
