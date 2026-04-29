@@ -73,3 +73,9 @@ Non so sono ancora molto in dubbio sulla questione pronomi, clitici e casi...
 * "Comunque sia" ? < "per renderla comunque sia istruita"
 
 * Problemi SD
+
+
+
+
+
+This work was supported by COST Action CA21167 —Universality, diversity and idiosyncrasy in language technology ([UniDive](https://unidive.lisn.upsaclay.fr/)).
