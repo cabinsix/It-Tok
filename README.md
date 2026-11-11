@@ -34,7 +34,7 @@ Troncone, L. (2025). "Building It-tok: an Italian TikTok Corpus". Proceedings of
 
 ## **Tr-It-tok** ##
 
-T-It-tok si riferisce alla sezione di It-tok annotata manualmente in CoNLL-U.
+Tr-It-tok si riferisce alla sezione di It-tok annotata manualmente in CoNLL-U.
 
 It-Tok project su Arborator: '(https://arborator.grew.fr/?#/projects/It-tok)'
 
